@@ -1,6 +1,6 @@
 # Smart Gloves for Non-Verbal Patient Communication
 
-![Smart Gloves](path/to/your/image.jpg) <!-- Replace with your image path -->
+![Smart Gloves](path/to/your/image.jpg) 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 In the world of healthcare, effective communication is vital, especially for non-verbal patients who struggle to express their needs. Our **Smart Gloves for Non-Verbal Patient Communication** project aims to bridge this communication gap by utilizing innovative technology to translate hand gestures into audible speech, enhancing the interaction between patients and caregivers.
@@ -57,9 +56,6 @@ The Smart Gloves leverage the capabilities of Arduino Nano and various sensors t
 
 ## Contributing
 We welcome contributions to enhance the Smart Gloves project! Please feel free to fork the repository, make changes, and submit a pull request. For any suggestions or issues, open an issue on GitHub.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
