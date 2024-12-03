@@ -1,2 +1,2 @@
-# Despro
+# Smart Gloves
 IoT Project
