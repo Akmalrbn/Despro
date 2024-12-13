@@ -1,6 +1,6 @@
 # Smart Gloves for Non-Verbal Patient Communication
 
-![Smart Gloves](path/to/your/image.jpg) 
+![Smart Gloves](https://github.com/Akmalrbn/Smart-Gloves-for-Non-verbal-Patient/blob/main/image.png) 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,13 +10,12 @@
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 
 ## Introduction
 In the world of healthcare, effective communication is vital, especially for non-verbal patients who struggle to express their needs. Our **Smart Gloves for Non-Verbal Patient Communication** project aims to bridge this communication gap by utilizing innovative technology to translate hand gestures into audible speech, enhancing the interaction between patients and caregivers.
 
 ## Project Overview
-The Smart Gloves leverage the capabilities of Arduino Nano and various sensors to recognize specific hand gestures made by the user. Each gesture corresponds to a pre-defined phrase or sound, which is then played through a speaker. This technology can significantly improve the quality of life for patients who are unable to speak due to conditions like stroke, ALS, or severe disabilities.
+The Smart Gloves leverage the capabilities of Arduino Nano and Flex sensor to recognize specific hand gestures made by the user. Each gesture corresponds to a pre-defined phrase or sound, which is then played through a speaker. This technology can significantly improve the quality of life for patients who are unable to speak due to conditions like stroke, ALS, or severe disabilities.
 
 ## Components Used
 - **Arduino Nano**: The brain of the project, responsible for processing input from the sensors and controlling the output.
@@ -46,16 +45,14 @@ The Smart Gloves leverage the capabilities of Arduino Nano and various sensors t
 
 ## Usage
 1. **Wearing the Gloves**: Put on the smart gloves and ensure that the flex sensors are positioned correctly on the fingers.
-2. **Making Gestures**: Use simple hand gestures to communicate. For example, a fist may represent "I need help," while an open hand could signify "I want water."
-3. **Listening**: The speaker will announce the corresponding phrase, and the LCD will display the gesture being recognized.
+2. **Turning on the Power Supply**: Turn on the circuit with the switch button on the battery located next to the circuit box.
+3. **Making Gestures**: Use simple hand gestures to communicate. For example, a fist may represent "I need help," while an open hand could signify "I want water."
+4. **Listening**: The speaker and LCD will announce the corresponding phrase.
 
 ## Future Improvements
 - **Expanded Vocabulary**: Adding more phrases and sounds for a broader range of communication.
 - **Mobile App Integration**: Developing a companion app to allow caregivers to customize phrases and monitor usage.
 - **Machine Learning**: Implementing machine learning algorithms to improve gesture recognition accuracy over time.
-
-## Contributing
-We welcome contributions to enhance the Smart Gloves project! Please feel free to fork the repository, make changes, and submit a pull request. For any suggestions or issues, open an issue on GitHub.
 
 ---
 
